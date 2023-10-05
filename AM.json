@@ -1,0 +1,4798 @@
+{
+  "ALVARAES": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "AMATURA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "ANAMA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "ANORI": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "APUI": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "30/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    }
+  },
+  "ATALAIA DO NORTE": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "AUTAZES": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "BARCELOS": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "06/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "BARREIRINHA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "BENJAMIN CONSTANT": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "29/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "BERURI": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "BOA VISTA DO RAMOS": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "BOCA DO ACRE": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "BORBA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "01/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "CAAPIRANGA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "CANUTAMA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "CARAUARI": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "CAREIRO": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "13/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "19/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "CAREIRO DA VARZEA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "COARI": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "CODAJAS": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "EIRUNEPE": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "ENVIRA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "FONTE BOA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "31/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "12/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "GUAJARA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "HUMAITA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "15/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "IPIXUNA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "IRANDUBA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "10/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "ITACOATIARA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "25/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário da Cidade"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "01/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "ITAMARATI": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "ITAPIRANGA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "JAPURA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "JURUA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "JUTAI": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "19/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário da cidade"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "LABREA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "08/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "MANACAPURU": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "16/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "MANAQUIRI": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "MANAUS": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Quarta-feira de cinzas"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "24/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário de Manaus"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "MANICORE": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "15/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "15/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "MARAA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "MAUES": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "25/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "NHAMUNDA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "31/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "NOVA OLINDA DO NORTE": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "19/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "NOVO AIRAO": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "05/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "20/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "19/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "NOVO ARIPUANA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "19/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "PARINTINS": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "14/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "16/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "PAUINI": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "PRESIDENTE FIGUEIREDO": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "27/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "10/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "RIO PRETO DA EVA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "31/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "SANTA ISABEL DO RIO NEGRO": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "SANTO ANTONIO DO ICA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "13/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "SAO GABRIEL DA CACHOEIRA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "03/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "29/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "SAO PAULO DE OLIVENCA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "31/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "SAO SEBASTIAO DO UATUMA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "SILVES": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "TABATINGA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "01/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "29/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "TAPAUA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "22/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "TEFE": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "15/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "TONANTINS": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "UARINI": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "URUCARA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "12/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "26/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  },
+  "URUCURITUBA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "05/09/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Amazonas"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia de Nossa Senhora da Conceição"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  }
+}
