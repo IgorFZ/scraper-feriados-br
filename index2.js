@@ -37,26 +37,25 @@ let browser;
   await page.goto('https://www.feriados.com.br/feriados-acrelandia-ac.php?ano=2023')
   await delay(2000)
 
-  const states = ['SC']
+  const states = ['MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN']
   const data = {}
 
   for (const state of states) {
     await page.select('#estado', state);
     await delay(2000);
 
-    // const cities = await page.evaluate(() => {
-    //   const selectCity = document.getElementById('cidade');
-    //   const cityOptions = Array.from(selectCity.options).map(option => option.value);
-    //   cityOptions.shift();
-    //   return cityOptions;
-    // });
+    const cities = await page.evaluate(() => {
+      const selectCity = document.getElementById('cidade');
+      const cityOptions = Array.from(selectCity.options).map(option => option.value);
+      cityOptions.shift();
+      return cityOptions;
+    });
 
     const citiesData = {}
-    const cities = ['Joaçaba']
 
     for (const city of cities) {
       await page.select('#cidade', city);
-      await delay(5000);
+      await delay(1000);
 
       const holidays = await extractHolidays(page);
       citiesData[city] = holidays;
@@ -64,8 +63,8 @@ let browser;
     data[state] = citiesData;
     console.log(citiesData)
 
-    // const jsonData = JSON.stringify(citiesData, null, 2);
-    // fs.writeFileSync(`${state}.json`, jsonData, 'utf8');
+    const jsonData = JSON.stringify(citiesData, null, 2);
+    fs.writeFileSync(`${state}.json`, jsonData, 'utf8');
 
     console.log(state);
   }

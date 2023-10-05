@@ -37,7 +37,7 @@ let browser;
   await page.goto('https://www.feriados.com.br/feriados-acrelandia-ac.php?ano=2023')
   await delay(2000)
 
-  const states = ['BA', 'CE', 'ES', 'GO', 'MA']
+  const states = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA']
   const data = {}
 
   for (const state of states) {
@@ -55,7 +55,7 @@ let browser;
 
     for (const city of cities) {
       await page.select('#cidade', city);
-      await delay(5000);
+      await delay(1000);
 
       const holidays = await extractHolidays(page);
       citiesData[city] = holidays;
