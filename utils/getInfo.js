@@ -42,8 +42,15 @@ function stringToJSON(arrayStrings) {
         };
       } else {
         description = description.replace('</span></div>', '');
-        if (description == 'Dia do Município') {
+
+        let feriadosMunicipais = ['Emancipação do Município', 'Dia do Município', 'Feriado Municipal', 'Aniversário', 'Aniversário da Cidade', 'Aniversário do Município']
+        let feriadosFacultativo = ['Dia do Professor', 'Dia do Servidor Público']
+        let type = feriadosMunicipais[0]
+
+        if (feriadosMunicipais.includes(description)) {
           type = 'Feriado Municipal'
+        } else if (feriadosFacultativo.includes(description)) {
+          type = 'Facultativo'
         } else {
           type = 'Desconhecido'
         }
